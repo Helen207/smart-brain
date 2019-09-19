@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start": "nodemon smart-brain-api/server.js"
   },
   "author": "",
   "license": "ISC",
